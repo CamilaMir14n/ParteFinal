@@ -1,0 +1,28 @@
+.card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin: 12px;
+  text-align: center;
+  width: 250px;
+}
+
+.image {
+  width: 100%;
+  max-height: 140px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+.link {
+  display: inline-block;
+  margin-top: 8px;
+  background: #6ee7b7;
+  padding: 6px 12px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #222;
+  font-weight: bold;
+}
