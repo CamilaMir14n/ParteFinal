@@ -26,3 +26,8 @@
   color: #222;
   font-weight: bold;
 }
+
+.card,
+.card * {
+  color: #111 !important;
+}

@@ -147,3 +147,20 @@
   box-shadow: 0 2px 8px #0001;
   font-family: 'Comic Sans MS', 'Comic Sans', cursive;
 }
+
+/* Garante texto preto em todos os grupos principais */
+.main-container,
+.secao,
+.perfil,
+.cards,
+.historico-lista,
+.rodape-artistick,
+.titulo-artistick,
+.secao-titulo,
+.perfil-nome,
+.perfil-idade,
+.historico-titulo,
+.card,
+.card * {
+  color: #111 !important;
+}
